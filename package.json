@@ -3,6 +3,8 @@
     "displayName": "mut-theme",
     "description": "code theme for vscode",
     "version": "0.0.1",
+    "publisher": "Gradia",
+    "icon": "images/graia.png",
     "engines": {
         "vscode": "^1.36.0"
     },

@@ -1,14 +1,12 @@
-# README
-## This is the README for your extension "mut"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# MUT 
+![Preview](https://raw.githubusercontent.com/GradiMut/mut-theme/master/images/gradia.png)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+## this is vscode theme extension
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+> a dark theme vscode extension withouth white color
 
 **Enjoy!**
-# mut-theme
+
+## mut-theme
+
+![Preview](https://raw.githubusercontent.com/GradiMut/mut-theme/master/images/theme.png)
