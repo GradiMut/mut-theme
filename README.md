@@ -4,14 +4,14 @@
 
 ## this is vscode theme extension
 
-1. a dark theme vscode extension withouth white color
-2. paste the following command
-   > paste the following command
-3. press enter
+> a dark theme vscode extension withouth white color
 
 ## Instalation
 
-> aunch VS Code Quick Open (Ctrl+P)
+1. aunch VS Code Quick Open (Ctrl+P)
+2. paste the following command
+   > paste the following command
+3. press enter
 
 **Enjoy!**
 
