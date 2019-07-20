@@ -4,7 +4,7 @@
     "description": "code theme for vscode",
     "version": "0.0.1",
     "publisher": "Gradia",
-    "icon": "https://raw.githubusercontent.com/GradiMut/mut-theme/master/images/gradia.png",
+    "icon": "images/gradia.png",
     "engines": {
         "vscode": "^1.36.0"
     },
