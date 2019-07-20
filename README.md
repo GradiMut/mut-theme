@@ -1,5 +1,3 @@
-# MUT
-
 ![Preview](https://raw.githubusercontent.com/GradiMut/mut-theme/master/images/gradia.png)
 
 ## this is vscode theme extension
@@ -10,7 +8,7 @@
 
 1. aunch VS Code Quick Open (Ctrl+P)
 2. paste the following command
-   > paste the following command
+   > ext install Gradia.mut
 3. press enter
 
 **Enjoy!**
